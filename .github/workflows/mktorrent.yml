@@ -6,7 +6,7 @@ on:
       
 env:
   name: "tekken3"
-  comment: "Firefox Setup 88.0 win64 by torrent-webseed-creator"
+  comment: "tekkengame"
   url: "https://the-eye.eu/public/rom/Playstation/Games/NTSC/Tekken%203%20%28USA%29.zip"
   file_name: "Tekken 3 (USA).zip"
   piece_size: 19 # Check the README.md for recommended piece size
